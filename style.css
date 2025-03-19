@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: cyan;
+    color: white;
+    border: solid purple 3px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: teal;
+    border: solid violet 3px;
+    color: white;
+}
+.light{
+    background-color: cyan;
+}
+.dark{
+    background-color: teal;
+}
